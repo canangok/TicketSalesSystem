@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TicketSalesSystem.Application.Features.Events
+namespace TicketSalesSystem.Application.Features.Events.Queries.GetEventDetail
 {
     public class GetEventDetailQuery : IRequest<EventDetailVm>
     {

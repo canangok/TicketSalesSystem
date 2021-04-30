@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using TicketSalesSystem.Application.Contracts.Persistence;
 using TicketSalesSystem.Domain.Entities;
 
-namespace TicketSalesSystem.Application.Features.Events
+namespace TicketSalesSystem.Application.Features.Events.Queries.GetEventDetail
 {
     public class GetEventDetailQueryHandler : IRequestHandler<GetEventDetailQuery, EventDetailVm>
     {
