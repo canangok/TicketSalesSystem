@@ -1,3 +1,3 @@
 # TicketSalesSystem
 
-.Net 5, Mediatr Pattern , AutoMapper, Onion Architecture
+The ones I used for this project are: .Net 5, CQRS , Mediatr Pattern , AutoMapper, Onion Architecture
